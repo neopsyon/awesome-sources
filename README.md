@@ -14,6 +14,9 @@ The repository contains a list of useful internet sources, such as other top inf
 
 * [Thomas Maurer Blog](https://www.thomasmaurer.ch/) - Thomas Maurer blogging about Cloud.
 
+## Docs
+* [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentation in a fast, organized, and searchable interface.
+
 ## Internet Security    
 * [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/vulnerability) - The Microsoft Security Response Center (MSRC) investigates all reports of security vulnerabilities affecting Microsoft products and services.
 
@@ -77,16 +80,19 @@ The repository contains a list of useful internet sources, such as other top inf
 
 * [Diagram as Code](https://github.com/mingrammer/diagrams) - Diagrams lets you draw the cloud system architecture in Python code.
 
+* [Awesome Sytac Training](https://github.com/haciz/awesome-sytac-training) - Awesome IT Trainings by Sytac
+
+* [JSON Crack](https://github.com/AykutSarac/jsoncrack.com?utm_content=buffer51d6c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Simple JSON visualization tool for your data.
+
+* [GitPod](https://gitpod.io/workspaces) - Spin up fresh, automated dev environments for each task in the cloud, in seconds.
+
 ## Training
 * [Offensive Security](https://www.offensive-security.com/) - Advance your information security career with our industry-leading training.
 
 * [TryHackMe](https://tryhackme.com/) - Hands-On cyber security training through real-world scenarios.
 
-* [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentation in a fast, organized, and searchable interface.
-
 * [Guerilla Interviews](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - The Guerrilla Guide to Interviewing.
 
-* [JSON Crack](https://github.com/AykutSarac/jsoncrack.com?utm_content=buffer51d6c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Simple JSON visualization tool for your data.
 
 ## Utilities
 * [macOS Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
