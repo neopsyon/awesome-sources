@@ -14,7 +14,10 @@ jobs:
       
       - uses: shogo82148/actions-setup-perl@v1.17.0
 
-      - run: ./ci/scripts/sorter.perl README.md > README.md.bak ; rm -f README.md ; mv README.md.bak README.md
+      - run: |
+          ./ci/scripts/sorter.perl README.md > README.md.bak
+          rm -f README.md
+          mv README.md.bak README.md
       
       - name: GitHub Commit & Push
         uses: actions-js/push@v1.3
