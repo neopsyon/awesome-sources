@@ -79,11 +79,16 @@ Managing Cloud and Datacenter by Tao Yang.
 * [Diagram as Code](https://github.com/mingrammer/diagrams) - Diagrams lets you draw the cloud system architecture in Python code.
 
 ## Training
+* [Offensive Security](https://www.offensive-security.com/) - Advance your information security career with our industry-leading training.
+
 * [TryHackMe](https://tryhackme.com/) - Hands-On cyber security training through real-world scenarios.
 
 * [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentation in a fast, organized, and searchable interface.
 
 * [Guerilla Interviews](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - The Guerrilla Guide to Interviewing.
 
-* [JSON Crack](https://github.com/AykutSarac/jsoncrack.com?utm_content=buffer51d6c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Simple json visualization tool for your data.
+* [JSON Crack](https://github.com/AykutSarac/jsoncrack.com?utm_content=buffer51d6c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Simple JSON visualization tool for your data.
+
+## Spirituality
+* [Divine Healing Netherlands](https://divine-healing.nl/) - Organization providing grandfather and grandmother ceremonies.
 
