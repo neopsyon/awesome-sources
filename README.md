@@ -22,6 +22,8 @@ Managing Cloud and Datacenter by Tao Yang.
 ### Microsoft Azure
 * [Azure Architecture Document](https://lnkd.in/d-fwafaf) - Azure Architecture Documentation extracted in PDF.
 
+* [Awesome Azure Bicep](https://github.com/ElYusubov/AWESOME-Azure-Bicep) - A curated list of AWESOME blogs, videos, tips-and-tricks, codes, tools, scripts.
+
 * [Azure DevOps Labs](https://www.azuredevopslabs.com/) - Simplify and speed up the DevOps process with Azure DevOps services.
 
 * [Azure Naming Convention](https://justinoconnor.codes/2022/08/19/azure-periodic-table-of-resource-naming-convention-shorthands/) - Azure Periodic Table of Resource Naming Convention Shorthands.
@@ -41,6 +43,8 @@ Managing Cloud and Datacenter by Tao Yang.
 * [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture) - A curated list of AWESOME blogs, videos, tutorials, code, tools & scripts, related to the design and implementation of solutions in Microsoft Azure.
 
 * [Azure Sentinel 4 SecOps](https://github.com/eshlomo1/Microsoft-Sentinel-4-SecOps) - Microsoft Sentinel content with queries for exploration, hunting, and other activities.
+
+* [Azure Resource Inventory](https://github.com/microsoft/ARI) - Azure Resource inventory (ARI) is a powerful script written in PowerShell to generate an Excel report of any Azure Environment you have read access.
 
 * [AKS Accelerator](https://github.com/Azure/AKS-Construction) - AKS Accelerator dramatically speeds up this work by providing the templates and deployment scripts to quickly create a fully configured, Kubernetes environment.
 
@@ -80,3 +84,6 @@ Managing Cloud and Datacenter by Tao Yang.
 * [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentation in a fast, organized, and searchable interface.
 
 * [Guerilla Interviews](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - The Guerrilla Guide to Interviewing.
+
+* [JSON Crack](https://github.com/AykutSarac/jsoncrack.com?utm_content=buffer51d6c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Simple json visualization tool for your data.
+
