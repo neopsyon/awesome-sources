@@ -68,11 +68,6 @@ The repository contains a list of useful internet sources, such as other top inf
 
 * [Swiss Cyber Institute](https://swisscyberinstitute.com/) - Swiss Cyber Institute (SCI) stands out as a human-centric education provider that focuses on helping society build a secure ecosystem.
 
-## Spirituality
-* [Divine Healing Netherlands](https://divine-healing.nl/) - Organization providing Ayahuasca and San Pedro ceremonies.
-
-* [The Origin](https://www.theorigin.nl/) - Organization providing Iboga and Peyotte ceremonies.
-
 ## Tools
 * [Cooklang](https://briansunter.com/blog/cooklang/) - Managing Recipes in Git.
 
@@ -92,3 +87,7 @@ The repository contains a list of useful internet sources, such as other top inf
 ## Utilities
 * [macOS Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
+## Spirituality
+* [Divine Healing Netherlands](https://divine-healing.nl/) - Organization providing Ayahuasca and San Pedro ceremonies.
+
+* [The Origin](https://www.theorigin.nl/) - Organization providing Iboga and Peyotte ceremonies.
