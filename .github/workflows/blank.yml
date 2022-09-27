@@ -14,4 +14,4 @@ jobs:
       
       - uses: shogo82148/actions-setup-perl@v1.17.0
 
-      - run: ls -lr
+      - run: ./ci/scripts/sorter.perl README.md
