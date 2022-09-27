@@ -14,6 +14,13 @@ The repository contains a list of useful internet sources, such as other top inf
 
 * [Thomas Maurer Blog](https://www.thomasmaurer.ch/) - Thomas Maurer blogging about Cloud.
 
+## Internet Security    
+* [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/vulnerability) - The Microsoft Security Response Center (MSRC) investigates all reports of security vulnerabilities affecting Microsoft products and services.
+
+* [Microsoft Security Products](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/a-light-overview-of-microsoft-security-products/ba-p/3256279?WT.mc_id=modinfra-00000-rotrent&fbclid=IwAR0PSZwpbak9IPkVz8F0ZuRM29lugpc1EtfqS4iOPBHiRyNEX8F61xBS_sY) - A Light Overview of Microsoft Security Products.
+
+* [Security Control Mapping in Azure Landing Zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/control-mapping/security-control-mapping?WT.mc_id=linkedin) - Many organizations are required to comply with certain industry/regional regulations before adopting and onboarding the Azure cloud services.
+
 ## Microsoft
 * [Microsoft Portals](https://msportals.io/) - The list of Microsoft Administrator portals.
 
@@ -56,20 +63,10 @@ The repository contains a list of useful internet sources, such as other top inf
 ### Microsoft PowerShell
 * [PowerShell By Example](https://powershellbyexample.dev/) - PowerShell by Example, modeled after Go by Example, is a hands-on introduction to PowerShell using annotated example programs.
 
-## Internet Security    
-* [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/vulnerability) - The Microsoft Security Response Center (MSRC) investigates all reports of security vulnerabilities affecting Microsoft products and services.
-
-* [Microsoft Security Products](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/a-light-overview-of-microsoft-security-products/ba-p/3256279?WT.mc_id=modinfra-00000-rotrent&fbclid=IwAR0PSZwpbak9IPkVz8F0ZuRM29lugpc1EtfqS4iOPBHiRyNEX8F61xBS_sY) - A Light Overview of Microsoft Security Products.
-
-* [Security Control Mapping in Azure Landing Zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/control-mapping/security-control-mapping?WT.mc_id=linkedin) - Many organizations are required to comply with certain industry/regional regulations before adopting and onboarding the Azure cloud services.
-
 ## Organizations 
 * [Uptime Institute](https://uptimeinstitute.com/) - Uptime Institute is the Standard bearer for Digital Infrastructure performance.
 
 * [Swiss Cyber Institute](https://swisscyberinstitute.com/) - Swiss Cyber Institute (SCI) stands out as a human-centric education provider that focuses on helping society build a secure ecosystem.
-
-## Utilities
-* [macOS Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
 ## Spirituality
 * [Divine Healing Netherlands](https://divine-healing.nl/) - Organization providing grandfather and grandmother ceremonies.
@@ -89,4 +86,7 @@ The repository contains a list of useful internet sources, such as other top inf
 * [Guerilla Interviews](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/) - The Guerrilla Guide to Interviewing.
 
 * [JSON Crack](https://github.com/AykutSarac/jsoncrack.com?utm_content=buffer51d6c&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) - Simple JSON visualization tool for your data.
+
+## Utilities
+* [macOS Stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
