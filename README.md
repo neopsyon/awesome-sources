@@ -1,4 +1,4 @@
-# Awesome Sources - Awesome list of internet sources
+# Awesome list of Internet Sources
 
 The repository contains a list of useful internet sources, such as other top influencers, repositories, websites, etc.
 
