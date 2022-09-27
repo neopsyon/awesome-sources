@@ -19,4 +19,5 @@ jobs:
       - name: Github commit and push
         uses: Smart-Transportation/push@v1.3
         with:
+          Destination: main
           github_token: ${{ secrets.GITHUB_TOKEN }}
