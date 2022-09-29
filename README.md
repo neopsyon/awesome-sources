@@ -1,8 +1,4 @@
 # Awesome list of Internet Sources
-* [Microsoft Security Products](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/a-light-overview-of-microsoft-security-products/ba-p/3256279?WT.mc_id=modinfra-00000-rotrent&fbclid=IwAR0PSZwpbak9IPkVz8F0ZuRM29lugpc1EtfqS4iOPBHiRyNEX8F61xBS_sY) - A Light Overview of Microsoft Security Products.
-
-* [Security Control Mapping in Azure Landing Zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/control-mapping/security-control-mapping?WT.mc_id=linkedin) - Many organizations are required to comply with certain industry/regional regulations before adopting and onboarding the Azure cloud services.
-
 The repository contains a list of useful internet sources, such as other top influencers, repositories, websites, etc.
 
 ## Blogs
@@ -22,6 +18,10 @@ The repository contains a list of useful internet sources, such as other top inf
 
 ## Internet Security    
 * [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/vulnerability) - The Microsoft Security Response Center (MSRC) investigates all reports of security vulnerabilities affecting Microsoft products and services.
+
+* [Microsoft Security Products](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/a-light-overview-of-microsoft-security-products/ba-p/3256279?WT.mc_id=modinfra-00000-rotrent&fbclid=IwAR0PSZwpbak9IPkVz8F0ZuRM29lugpc1EtfqS4iOPBHiRyNEX8F61xBS_sY) - A Light Overview of Microsoft Security Products.
+
+* [Security Control Mapping in Azure Landing Zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/control-mapping/security-control-mapping?WT.mc_id=linkedin) - Many organizations are required to comply with certain industry/regional regulations before adopting and onboarding the Azure cloud services.
 
 ## Microsoft
 * [Microsoft Portals](https://msportals.io/) - The list of Microsoft Administrator portals.
