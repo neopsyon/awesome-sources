@@ -13,13 +13,14 @@ The repository contains a list of useful internet sources, such as other top inf
 * [Tao Yang Blog](https://blog.tyang.org/) - Managing Cloud and Datacenter by Tao Yang.
 
 * [Thomas Maurer Blog](https://www.thomasmaurer.ch/) - Thomas Maurer blogging about Cloud.
+
 ## Docs
 * [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentation in a fast, organized, and searchable interface.
 
 ## Internet Security    
-* [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/vulnerability) - The Microsoft Security Response Center (MSRC) investigates all reports of security vulnerabilities affecting Microsoft products and services.
-
 * [Microsoft Security Products](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/a-light-overview-of-microsoft-security-products/ba-p/3256279?WT.mc_id=modinfra-00000-rotrent&fbclid=IwAR0PSZwpbak9IPkVz8F0ZuRM29lugpc1EtfqS4iOPBHiRyNEX8F61xBS_sY) - A Light Overview of Microsoft Security Products.
+
+* [Microsoft Security Response Center](https://msrc.microsoft.com/update-guide/vulnerability) - The Microsoft Security Response Center (MSRC) investigates all reports of security vulnerabilities affecting Microsoft products and services.
 
 * [Security Control Mapping in Azure Landing Zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/control-mapping/security-control-mapping?WT.mc_id=linkedin) - Many organizations are required to comply with certain industry/regional regulations before adopting and onboarding the Azure cloud services.
 
