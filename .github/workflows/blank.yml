@@ -15,7 +15,7 @@ jobs:
       - uses: shogo82148/actions-setup-perl@v1.17.0
 
       - run: |
-          ./ci/scripts/sorter.perl README.md > README.md.bak
+          perl -ne 'if(/^#{1,3}/){$current=$_;}elsif(! /^\s*$/){push( @{$entries{$current}},"$_\n");}END{for $chapter (sort keys %entries){print $chapter;print sort @{$entries{$chapter}};}}' README.md > README.md.bak
           rm -f README.md
           mv README.md.bak README.md
       
