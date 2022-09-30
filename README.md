@@ -75,6 +75,10 @@ The repository contains a list of useful internet sources, such as other top inf
 
 * [The Origin](https://www.theorigin.nl/) - Organization providing Iboga and Peyotte ceremonies.
 
+* [Golden Rosy Cross](https://www.goldenrosycross.org/)
+
+* [Gene Keys](https://genekeys.com/)
+
 ## Tools
 * [Cooklang](https://briansunter.com/blog/cooklang/) - Managing Recipes in Git.
 
