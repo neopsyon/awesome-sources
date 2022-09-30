@@ -73,11 +73,11 @@ The repository contains a list of useful internet sources, such as other top inf
 ## Spirituality
 * [Divine Healing Netherlands](https://divine-healing.nl/) - Organization providing Ayahuasca and San Pedro ceremonies.
 
-* [The Origin](https://www.theorigin.nl/) - Organization providing Iboga and Peyotte ceremonies.
+* [Gene Keys](https://genekeys.com/)
 
 * [Golden Rosy Cross](https://www.goldenrosycross.org/)
 
-* [Gene Keys](https://genekeys.com/)
+* [The Origin](https://www.theorigin.nl/) - Organization providing Iboga and Peyotte ceremonies.
 
 ## Tools
 * [Cooklang](https://briansunter.com/blog/cooklang/) - Managing Recipes in Git.
