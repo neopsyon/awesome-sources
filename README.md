@@ -24,6 +24,8 @@ The repository contains a list of useful internet sources, such as other top inf
 
 * [Security Control Mapping in Azure Landing Zones](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/control-mapping/security-control-mapping?WT.mc_id=linkedin) - Many organizations are required to comply with certain industry/regional regulations before adopting and onboarding the Azure cloud services.
 
+* [Tines](https://www.tines.com) - No-code automation for security teams
+
 ## Microsoft
 * [Microsoft Portals](https://msportals.io/) - The list of Microsoft Administrator portals.
 
