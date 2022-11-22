@@ -73,6 +73,8 @@ The repository contains a list of useful internet sources, such as other top inf
 * [Uptime Institute](https://uptimeinstitute.com/) - Uptime Institute is the Standard bearer for Digital Infrastructure performance.
 
 ## Spirituality
+* [Chakana Center](https://chakana-center.com/) - Organization providing Ayahuasca ceremonie.
+
 * [Divine Healing Netherlands](https://divine-healing.nl/) - Organization providing Ayahuasca and San Pedro ceremonies.
 
 * [Gene Keys](https://genekeys.com/)
@@ -80,8 +82,6 @@ The repository contains a list of useful internet sources, such as other top inf
 * [Golden Rosy Cross](https://www.goldenrosycross.org/)
 
 * [The Origin](https://www.theorigin.nl/) - Organization providing Iboga and Peyote ceremonies.
-
-* [Chakana Center](https://chakana-center.com/) - Organization providing Ayahuasca ceremonie.
 
 ## Tools
 * [Cooklang](https://briansunter.com/blog/cooklang/) - Managing Recipes in Git.
