@@ -79,7 +79,9 @@ The repository contains a list of useful internet sources, such as other top inf
 
 * [Golden Rosy Cross](https://www.goldenrosycross.org/)
 
-* [The Origin](https://www.theorigin.nl/) - Organization providing Iboga and Peyotte ceremonies.
+* [The Origin](https://www.theorigin.nl/) - Organization providing Iboga and Peyote ceremonies.
+
+* [Chakana Center](https://chakana-center.com/) - Organization providing Ayahuasca ceremonie.
 
 ## Tools
 * [Cooklang](https://briansunter.com/blog/cooklang/) - Managing Recipes in Git.
